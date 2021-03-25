@@ -1,0 +1,17 @@
+sup atas
+sub bawah
+strong bold
+em emphasize
+special characters (google special character) eg &copy;
+ul = point ,  li = no
+tr=table row, td= table data , th=table head
+input, name(collect data), id(label)
+2 type of submit - input or submit
+textarea
+radio - check only one
+checkbox - check multiple
+add checked for default
+pretier extension - auto format
+printable keyboard shortcut 
+css extension: bracket pair colorizer , indent-rainbow , highlight matching tag
+css-cascading style sheets (responsible for styling the web)
